@@ -1,0 +1,6 @@
+[package]
+name = "Guessing-Game"
+version = "0.1.0"
+authors = ["issamemari <issa.memari@gmail.com>"]
+
+[dependencies]
